@@ -6,8 +6,8 @@ This code is written to search for a motif in a protein or in multiple proteins.
 
 # Input files
 Two input files are needed for this code to work 
-	protein_codes.csv
-	motif.txt
+	protein_codes.csv \
+	motif.txt \
 Example data for these can be found in the repository and must be saved to the same directory as the code. Protein codes can be inputted via accession code (leave sequence field empty) or by sequence (input '#' followed by the chosen name for your protein in access_code field). For more information on the modification and formatting of this data please read the instructions document 'Instructions_for_motif_finder.docx' found in the repository.
 
 
